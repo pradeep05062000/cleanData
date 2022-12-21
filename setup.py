@@ -8,7 +8,8 @@ setuptools.setup(
     description='Cleaning unstructured data',
     long_description_content_type="text/markdown",
 
-    url='https://github.com/pradeep05062000/cleanData',
+    url='https://github.com/pradeep05062000/cleanData.git',
+    license='MIT',
     
     packages=['cleanData'],
     install_requires=['nltk'],
