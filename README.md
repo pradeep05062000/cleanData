@@ -1,11 +1,11 @@
 ## Folder structure
 Main Folder<br>
-  |<br>
-  |--setup.py<br>
-  |-- package(folder)<br>
-        |<br>
-        |-- module(function.py)<br>
-        |-- __init__.py<br>
+&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;|--setup.py<br>
+&nbsp;&nbsp;|-- package(folder)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-- module(function.py)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-- __init__.py<br>
         
 ## How to import this package<br>
 install package -- !pip install git+https://github.com/pradeep05062000/cleanData.git<br>
